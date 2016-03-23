@@ -1,0 +1,21 @@
+word = input("Enter word")
+word = word.lower()
+i = 0
+res = 0
+
+while i < len(word):
+    if word[i] == 'a':
+        res += 1
+    elif word[i] == 'e':
+        res += 1
+    elif word[i] == 'o':
+        res += 1
+    elif word[i] == 'i':
+        res += 1
+    elif word[i] == 'u':
+        res += 1
+    else:
+        res += 0
+    i += 1
+
+print(res)
