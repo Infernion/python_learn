@@ -2,9 +2,11 @@
 python_learn
 ************
 
-Изучение Python в группе. Успеваемость по ссылке scores_
+Изучение Python в группе. Успеваемость по ссылке scores_ . Подробнее внизу.
 
-В дальнейшем мы будем работать через GitHub. Предполагается что вы используете Linux.
+В дальнейшем мы будем работать через GitHub. Предполагается что вы используете Linux. Также можно PyCharm.
+
+Обучалки: PyCharm Edu, PyBursa_ , Codecadame, Prometheus.
 
 Что бы настроить рабочее окружение нужно произвести ниже приведенные действия.
 
@@ -45,3 +47,4 @@ python_learn
 .. _Pull_request: https://help.github.com/articles/using-pull-requests/
 .. _for_comments: https://docs.google.com/drawings/d/1dPZvqznigTCSEu9PUpyOdQPVJq3bFfYVybETjvoTRoA/edit?usp=sharing
 .. _table: https://github.com/Infernion/python_learn/blob/master/students.rst
+.. _PyBursa: https://yadi.sk/d/aev5n--xpYMwU
