@@ -5,8 +5,12 @@ result = "dlroW siht ekil I"
 """
 
 def reverser(text):
-    result = ''  # напсать код здесь
-    return result
+    i = len(text)
+    new = ''
+    while i != 0:
+        i -= 1
+        new += text[i]
+    return new
 
 
 if __name__=='__main__':
