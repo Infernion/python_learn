@@ -134,7 +134,8 @@
 
 HELP_
 =====
-.. _HELP: https://github.com/LotosikRa/python_learn/blob/develop/instructions/instructions.rst#Работа-с-табличкой
+.. _HELP: https://github.com/LotosikRa/Infernion/blob/develop/instructions/instructions.rst#Работа-с-табличкой
+
 .. CheckPoints
 
 .. |dz1| replace:: дз #1
